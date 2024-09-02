@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html> 
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John pays the blonde cougar with the beer money, knowing this money is going toward a feasible opportunity at fuck Rich's sister. They accompany each other out of the store together as they head through the busy streets of Lock Heaven.
+<br>
+<br>
+"You do know your brother is an ass right." He said as they fly by a few adequate eating hubs.
+<br>
+<br>
+Sarah said. "Yeah, been knowing that since our childhood. Daddy and mother constantly fed his ego, which is why I'm going into law school, and he's just a bum working for our father at his enormous company. A small dumb fish getting pays a ludicrous proportion of money from our daddy." She halts John as he leans into going to a simple restaurant. "No... I got the perfect place. So as I was saying... Rich is a spoiled robust rich guy who fucks, works for five minutes a day, fucks, and repeats. I can't wait until our dad dies. I'm not wishing for my father's downfall just want to see Rich flounder when he doesn't have daddy pulling the strings."
+<br>
+<br>
+John said. "Damn I only called him an ass. You just really hate your brother."
+<br>
+<br>
+"He knows how to grind my fucking gears. He pokes, pokes, pokes then we get into screaming matches."
+<br>
+<br>
+"I bet you win a lot." He said.
+<br>
+<br>
+"Yeah, but mostly he just quits and go let out his anger on his white girlfriend, Mia or find a different little ho to use." Sarah said while they shift into the wealthy side of town.
+<br>
+<br>
+John notices a lot of bigger skyscrapers and towers with gold-tinted windows, diamond-encrusted pathways, and more over-the-top plentiful embellishments. He realizes that Sarah must be exquisitely rich. This is a place must be the upper of the upper wealthy people like Saudi Princes and their blood money, then theirs just plain rich people, accordingly the middle income where he and his family stayed, and lastly probably on the outskirts the poor impoverished people stayed.
+<br>
+<br>
+"We are here." Sarah said outside of a well-known restaurant from the Mitt Gorset cooking show.
+<br>
+<br>
+"I umm how... Is this the place where they shoot Best Chef?"
+<br>
+<br>
+"Yeah, my dad is best friends with him. They knew each other since graduate school." She said as she steps in. "Are you coming?"
+<br>
+<br>
+
+ 
+Is he?
+
+
+<br>
+<br>
+<br>
+<br><a href="C:/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/whynot.html">Why not
+<br>
+<br>
+</p>
+
+</body>
+</html>

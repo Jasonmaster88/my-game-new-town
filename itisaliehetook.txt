@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+"What?" Anger building in John, he wants to get up and pound the old man and his asshole-mocking friends in with a bare wire bat. But he stays fused to his theater seat. The women and men around him get that sexual joy while the older woman digs her claws into his leg.
+<br>
+<br>
+
+
+"Yeah, my poor little boy. Dennis... Master Dennis saw that inexperienced twinkle in that ditzy blonde skinny bitch eyes and he saw it in you as well. He looks at a man with no familiarity with the BDSM community. And he stole your little whore." She brings his hands down to her sexy older tits. She lets John grope her for a bit.
+
+<br>
+<br>
+"This isn't making even fucking sense." John said. "If that is true. Why are you on your knees for me? Why is Dennis letting you talk and let me touch his property?"
+<br>
+<br>
+She laughs. "Before you came here with your unspoiled bitch, Dennis and his men used me. Cumming profusely in my worn out exhausted cunt. My tits, mouth, and ass have been shooting practice for his men's seed. Come on feel my cunt. I know you want to lucky cucky. Finger me and feel how much cum I got saved in there. Prove to yourself your not on Master Dennis's level."
+
+<br>
+<br>
+
+ 
+Do John
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/hefingerstheoldcunt.html">He fingers the older mature woman's cummy cunt (lose an alpha point)
+<br>
+
+
+</p>
+
+</body>
+</html>

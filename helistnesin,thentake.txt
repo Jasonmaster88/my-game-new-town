@@ -1,0 +1,115 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John walks over to the door and leans against the other side. He pushes the sliding door slightly open to hear what is being said between his rival and whoever else is on the other side of the phone.
+<br>
+<br>
+"No... I didn't lose my girlfriend... No.. sorry sir. I know I shouldn't back talk." Rich said into the phone with an apprehensive worried look on his face. John felt kinda bad for him, the look on his foe face giving John a short pause.
+<br>
+<br>
+"Look here this is your job, you suppose to be doing every single girl you can and report back to me. If you can't do it without losing your girlfriend then how are you supposed to breed others? Don't call me back, until you get your dick wet. Don't call me crying about it after you fucked up again! Do you understand?" A mumbled voice telling into the black rival ear. Rich face looking downtrodden
+<br>
+<br>
+Rich said into his phone with a sorrowful expression on his face. "Okay... Yes... You're right." Rich saying while hanging up from the phone.
+<br>
+<br>
+The conversation made no sense. What did he say? What was he talking about? This new information not making too much sense to John. His rival did the call the person on the phone sir. Could that be a family relationship? Maybe it's his college professor. Who the fucks knows? Rich bullies his way back into the house. He looks at John for a second, then decides to not say anything. He walks up to Janice who gives him a cold shoulder. Her back to him as he storms off to another woman.
+ <br>
+<br>
+John asks his stepsister...
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/togohomwithhim.html">To go home with him
+<br>
+<br>
+</p>
+
+</body>
+</html>

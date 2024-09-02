@@ -1,0 +1,113 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John decides that he wants to hang out with his latest conquest for a little while longer. The beautiful blonde bombshell's nude body looks extra sexy covered in John seed. He leans over giving her phat ass a rough slap as he settles down next to her with his cock deflating.
+<br>
+<br>
+
+"What made you pick a guy like Rich?" If you don't mind me prying." John provide a hand to Mia tits. He played with the blonde girl's pink nipples listening to how Mia started to date Rich.
+<br>
+<br>
+The blonde hair lady said. "Mmm a few months back I was dating this twitch streamer, he didn't have many followers, but my heart loves him so dearly. We dated for three years. Then at a party like this one, Rich introduced himself in a very dickish manner. I hated him at first but as the night went on and more conversation got had. For an odd reason, I somehow ended up in his bedroom the next day. My mind and body were sore from the night of raw sex with him. The sex was good with Rich but not as good as it was with you, John." A hand in his lap trying to make him hard again. "Is he ready to play again?"
+<br>
+<br>
+John nods. "Haha, I am." He took the story in wondering how Rich makes Mia throw away a three-year relationship. No ill will was brewing between her and her old ex. John made a mental note to go see the ex to learn more about Mia and him. ”But you don't get to feel him unless you give me your old cuck boyfriend's number."
+
+<br>
+<br>
+ 
+Does Mia gives him her old ex number?
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/shedoesgivehimexnumber.html">She does
+<br>
+<br>
+</p>
+
+</body>
+</html>

@@ -1,0 +1,194 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+His home situation in order and his MILF at home pacified, John leaves his new home behind and walks through the neighborhood. As he turns around the corner, he spots Richs house again. For a second he wonders if Mia lives with him or at least close by, but his balls are freshly emptied, so he doesn’t wonder for too long before walking past it.
+<br>
+<br>
+Lisa needs to be at work soon, but it will be a while before John needs to be at his job interview. That means time to burn. But there are not many opportunities for that here in the block. The city center on the other hand… Yeah, that’s his next destination. Yesterday he had the time to stumble his way aimlessly through the streets, today he’ll head right to downtown. John walks to the closest bus stop he noticed on his stroll and waits. And waits. And waits.
+<br>
+<br>
+In the long run he’ll need his own ride. Not just to impress the ladies, but also to move through the city. The people in charge probably don’t take the bus to work, so why should he?
+<br>
+<br>
+When the bus finally appears, he realizes why he should. In the back of the bus, in the last row, hidden in the corner and behind a book sits a mousy beauty. John puts down some coins for the bus driver and walks, almost in trance, to the end of the vehicle. There are plenty of open seats, but he walks past them all.
+<br>
+<br>
+“Is this seat still free?”, he gestures right next to her.
+<br>
+<br>
+A tiny blush rushes over her face. At least as far as John can tell from his side of her book. That piece of paper be damned! Sadly he can’t even decipher what publication straight from hell is blocking his view. Something Chinese? Or Japanese?....Or Korean? Well, it isn’t English, that much seems certain.
+<br>
+<br>
+“I’m pretty sure no one is sitting there at the moment”, she chuckles, ”so please, be my guest.”
+<br>
+<br>
+Her answer has a melody to it. John can’t put his finger on it, but the way she talks and her book in a foreign asian language give him the impression she might know her way around words.
+<br>
+<br>
+John settles beside her, a polite yet infinitely frustrating distance between them. While John is looking for eye contact with this entrancing stranger, she is engrossed in her book and doesn’t so much as turn his way once. But tiny, almost unnoticeable, the hint of a mischievous smirk decorates her face. Before long the bus has passed half the city and John has taken in the strangers silhouette for longer than would be really necessary. After all, he had memorized her key features at first glance. She's dressed in a casual, modern-cut grey pantsuit. Under the open jacket she wears a flowing, white blouse. Her outfit radiates sophistication, without the bland "brick in the wall" stig usually attached to business-wear. Not sure how long they’ll have before one of them reached his destination, he tries to build a connection.
+<br>
+<br>
+I don’t mean to bother you, but would you mind telling me what book you’re reading? I noticed it when I came in, but I can’t read the title from here. I just now I’d be wondering all day about it”, John throws her his best *isn’t that relatable?*-look.
+<br>
+<br>
+“Oh, you speak Mandarin?”, she fully turned to him an expression he couldn’t quite place.
+<br>
+<br>
+“Mmm, what?”, he answers confused.
+<br>
+<br>
+“I asked if you spoke Mandarin. You said you couldn’t read the title from there, could you read it like this?”, she closes the book and hands it to him.
+<br>
+<br>
+Up close the letters -or is it symbols? Or Kanji? No, he’s pretty sure Kanji are a Japanese, not Chinese. But aren’t those two related and adopted and reused and …stuff?- are still a mystery to him. John doesn’t speak Mandarin. And has never bothered him, till now. So far English had been enough. And a basic Spanish class plus a student exchange with Canada had left him with tid bits of other languages. He could ask where the next library is in three different languages, why did he feel uneducated all of a sudden?
+<br>
+<br>
+“Earth to stranger, I’m just kidding”, the girls hearty chuckle accompanied Johns relief. “My own Mandarin is horrible. This is just a dusty old classic I took out of my fathers study. As far as I can tell it’s about politics and war. But like I said, my Mandarin is horrible. So this could just as well be the worlds longest recipe for chicken soup.”
+<br>
+<br>
+Her smile could melt a glacier and John chimes in a laugh of his own. The warmth she radiates now is so disarming, he feels like there’s just the two of them and not a dozen people around them, encased in a crackling bus. But there are, so before he can tangle her in any real conversation, the bus speakers announce the next stop. And as the damsel before him grabs her book from him and puts it back into her bag, he fears the worst.
+<br>
+<br>
+“Oh, this is station is mine”, John’s cursing so much inside it must be visible, ”Ok, to be honest, I should have lest at the last one. But I had a feeling you needed a little more time”
+<br>
+<br>
+She winks a the most mischievous wink John ever witnessed and leaves him open-mouthed and alone at the end of the bus. That was either a joke or she really gave him an additional chance to make a move. In both cases she played him like a fiddle. He’s hooked now.
+<br>
+<br>
+*Wait, what did I want to hit up the town for again? Right, right. New clothes for my job interview. I should probably get off somewhere in downtown, find a nice tailor and try to exchange a kidney for a three piece suit.* John muses. Ok, he isn’t completely broke, but he doesn’t want a cheap suit either. But as the saying goes, fake it till you make it. He steps from the bus close to the city center and withdraws as much cash as the machine would let him and looks for a tailor.
+<br>
+<br>
+He soon finds one with an almost antique facade “THE BETTER MAN, Gentlemen’s apparel and modern accessories.”. It does sound classy, so it’s worth to check out. As John steps through the door, a small bell announcing his arrival, he enters a small reception like area. Dark wood dominates the room and an, as of now, empty counter builds its center. On it stand an old-school register and a sign “We’ll be right back to assist you”. The wall behind the counter is an assortment of historical pictures, some of them in black and white, some in sepia and only a few in full-colour. They obviously depict the shops long history from the tailor-with-a-dream in the hearts of Italy to THE high end mens fashion supplier in the state. Two pictures the others are arranged around are a few men having dinner and a group-shot. The dinner scene has three people in it, two of which John recognizes immediately. From left to right sit the towns mayor (the picture must be at least from his last term, as he looks a lot younger than on the billboards around town), the former state senator (which doesn’t often appear publicly anymore) and the unknown man. But if he was supposed to take a guess he’d use the family resemblance and deduct that he’s the stores owner. The other picture shows this (presumed) store owner surrounded by fifteen people, men and women, of varying ages. Probably his employees. But the woman on his right side with his arm on her shoulder looks special. Not just in the pictures composition, but also aesthetically. She has long dark hair, a fair complexion and what looks to be a more than womanly figure. Before can put more thought into that a murmur behind him catches his attention. The woman in question stands before him and looks apologetic.
+<br>
+<br>
+
+<br>
+<br>
+“I’m sorry for the inconvenience, we’re a little short-staffed at the moment and I really had to take that lunch break. My stomach was killing me… Did you have to wait long?”, the italian beauty asks him.
+<br>
+<br>
+“Not at all, I just came in. I took a moment to appreciate your interior and ~whosh~ there you are. Are those older photos from Italy?”, he gestures to the wall. “I’ve never been there myself, but those dreamy little towns sprinkled through the valleys are just what I imagine when I think about Italy.”
+<br>
+<br>
+“Yes, those oldest ones are indeed from *the old country* as my father would say. But that one on the left? The one with the tainted corner? That’s actually from Austria. My great-great-uncle opened the very first branch of the family business back then. The family nicknamed him *Hannibal*, for crossing the Alps and all.” John gave her a smile for that one. “But talking about the family in *family business* is not all you came here for, is it?. Do you have a package for me, or something?”
+<br>
+<br>
+She said it without malice, but John still gets the message she doesn’t see him as a potential customer. A delivery boy is what she thinks he is. Even though he doesn’t even have any items with him…
+<br>
+<br>
+“No, I don’t.” A gesture at his feet proofs, he truly doesn’t have any deliveries with him. “Believe it or not, I entered the tailor to get a suit. Is that such a rare occurrence here?”
+<br>
+<br>
+If she feels shame about doing him wrong, she doesn’t show it. Instead she looks at him in curiosity. Was he too cocky?
+<br>
+<br>
+“Well, if that’s the case please, be my guest”, with a challenging look she leads him away from the entrance, through arrays of ties, bowties, suspenders and things Johns *Jeans and a shirt*-mind can’t name. They enter a both in the far corner.
+<br>
+<br>
+“So, Mr.-?”
+<br>
+<br>
+“Mr. Williams, nice to meet you”, John offers his hand, which the lady shakes. Her hand is smooth but far from fragile. He can feel her fingers probably meet the needles pointy end on a regular basis.
+<br>
+<br>
+“Ms. Bianchi, the pleasure is all mine. So, what were we thinking? We should probably start with the occasion. Prom, maybe?”, after the misunderstanding at the reception, her tone became a lot more professional, but it still has a taunting quality to it. But telling him off cause he’s young is hardly appropriate with her looking like she’s in her late twenties herself. Maybe just bordering on 30.
+
+ <br>
+<br>
+Can he organize some new clothes?
+
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/dressforthejobyou.html">Dress for the job you want (+1 Alpha)
+<br>
+<br>
+</p>
+
+</body>
+</html>

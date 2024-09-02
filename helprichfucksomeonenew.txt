@@ -1,0 +1,135 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John chills in the living room waiting for Rich to finish talking with the man on the phone. His mind racing with thoughts on who it could be. Most of the talk didn't make any sense to him. He wondered why Rich is so cocky and self-assured all the time.
+<br>
+<br>
+Rich came through the door looking around at his party. His dark almond eyes caught his buddies. He swaggered over to John. "So what you thinking little pal? I still have some black seeds I need to dump. Who should be next?" Rich tells his friend jokingly.
+<br>
+<br>
+John saw a few cute co-eds talking in a group. They're a busty blonde in a red skirt and a white tight crop top. He caught her name Blake something.
+<br>
+<br>
+<br>
+Then a cute thin Asian girl in a bikini looks very out of her element. Weak prey is the first thing that pops into John's head.
+
+<br>
+<br>
+Then finally a sexy foxy hair ebony girl. A large smile that could steal anyone's heart.
+<br>
+<br>
+"So pal. Which one will look the best riding my cock? The blonde? Asian or Ebony? Blake something seems like she'll moan like a true slut." Rich looks at John nodding for him to make the call.
+<br>
+<br>
+John said. "The blonde Blake looks perfect. She seems nice. A little ditsy but hey blonde looks good with..."
+<br>
+<br>
+"Bbc." He laughs.
+<br>
+<br>
+"Yeah. But that Asian girl looks like an easy target. Her pussy is probably snug as fuck. And the ebony babe seems to have the attitude. A crazy attitude to ride dick hard." John said.
+
+<br>
+<br>
+John wonders why he likes saying pussy snug in front of his enemy? Why does he like picking out the women Rich will fuck? Why did he say that Asians look easy? Why is he so quick to pass judgment on these beautiful women he never met before?
+
+
+
+ 
+He comes to a decision...
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/fucktheblondebitchcuck.html">"Fuck the blonde bitch."
+<br>
+<br>
+
+</p>
+
+</body>
+</html>

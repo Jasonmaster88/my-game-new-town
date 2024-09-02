@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+Sarah yearning to stop John from violating her tight bum hole. But for an odd reason, she doesn't actually call out no to John advancement toward her hole. Her mouth was almost super glued shut, not trying to piss off her new neighbor from down the street.
+<br>
+<br>
+The black sister of John rival tight pucker fights against his fingers. Her anal cavity refused to loosen up. He decides to spit a whole river of salvia down into her black asshole. His fingers felt her passage become unrestricted for him like the red sea for Moses.
+<br>
+<br>
+He presses his fat white cock crown against the rim of Sarah void. He hears her bracing herself as the pain soon will be evident. With a slow push into the breaking hole, John feels his cock flooding into his rival sister's tight hole. A few groans and whimpers from Sarah flew into his ears as he doesn't care.
+<br>
+<br>
+
+His only motive is to keep fucking women and make the other men around him, want to be more like him. He angles his phone downward at the asshole letting him in freely. Not having to pay for twenty dinners, dating for years, or a one-time birthday celebration to rip into her tight anal passage. His cock battering against Sarah sexy black cheeks. His white palms gripped her buttocks with firm embraces.
+
+<br>
+<br>
+ 
+"You want me to go faster you black slut."
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/nodastheygetcreepon.html">She nods as they are getting creep on
+</p>
+
+</body>
+</html>

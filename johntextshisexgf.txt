@@ -1,0 +1,124 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+He pulls up his old chat log with his ex-girlfriend from back home. Vina's cute nudes are still saved on their heated exchange Snapchat. Vina is a petite, yellow skin, of Asian descent from the Vietnamese, with a cute small snug pussy that John dreamt to feel on his limp beta cock again. John dick getting hard at the thought of Vina moans and feels her against him again.
+<br>
+<br>
+John weakly muster up a hello text. 'Hi Vina. Long time. This new place hasn't been that great to me. I'm missing you.'
+<br>
+<br>
+He gets a text back after a few minutes. 'oh John. Haven't heard from you for a while. Sorry to hear that the move hasn't been easy. Miss you too.' She sends a selfie with a large smile on her face. She's trying to cheer him up even though they haven't spoken or texted in three months.
+<br>
+<br>
+'Sorry, I didn't mean to sound clingy. I just want to let you know I think you are cool and miss talking with you.' He replies, his soft cock starting to get harder. His horny young mind imaging Vina's cute yellow skin body against his. Then it flashes to Rich big black cock ruining her. He didn't want those thoughts invading his head.
+
+<br>
+<br>
+'I am happy to hear that. maybe I can come out and visit you sometime.'
+<br>
+<br>
+He immediately texts. 'nah... I'll come back and hang out with you first. Thank you for a selfie. Maybe a nude before I go to see.'
+<br>
+<br>
+Instead of a naked picture of the Asian babe, it was just her flipping him off. 'Hey, no nudes for you. Shouldn't have broke my heart asshole.' She taunts his past decision making history.
+<br>
+<br>
+ 
+He laughs as he...
+
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/endofcontent.html">End of content
+<br>
+<br>
+
+</p>
+
+</body>
+</html>
