@@ -1,0 +1,129 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+"Yes, John. I love being a bitch to people. Showing how much of a pro-feminist I am. I fight for the pay cut to change, I want us girls to be allowed to have abortions whenever we want. I fight for the equal rights of all women and people. But I know I would rather wear basic seventies dresses or mom jeans from the nineties to satisfy the real man of the household."
+<br>
+<br>
+John grins with his hands pawing at the ebony punkers desirable body.
+<br>
+<br>
+
+
+His hands ran up her small portable booty. He squeezed her cheeks causing moans to escape from her mouth. "Tell me more you little slut. Tell me what else you would do to appease the man of the house."
+
+<br>
+<br>
+
+Her cute brown eyes stare itchingly into John eyes. She looks so fucking adorable and seductive at the parallel time. She spoke getting his cock back to full mast. "Mmm, I would cook for you, and wear cute little outfits while cleaning your house. Mmm, wear only g strings or nothing underneath my clothes. Suck your cock when you get home from working or drilling other bitches."
+<br>
+<br>
+"Oh, you okay if I pound out this entire town? Run my cock through every slut that comes my way." John lifting her ninety-pound body upwards.
+<br>
+<br>
+She gazes into his eyes from above. "Yes, I know a real man like you can't ever be fulfilled with only one pussy to inject into."
+<br>
+<br>
+"Oh if I fuck that little friend of yours, Piper. You'll be okay if I make her belly full of my cum. Make her have a bastard child of mine." John continues to see where she'd draw a line.
+
+<br>
+<br>
+
+ 
+Holly said...
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yesbeamanwhore.html">"Yes, be a man whore and I'll still let you creampie me whenever you want."
+<br>
+
+
+
+</p>
+
+</body>
+</html>

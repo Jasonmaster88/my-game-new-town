@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+Sarah face lit up with happiness as she pull out John big cock. Her white fingernails clasped around John waistband. She gradually pulled down his pants. She hoped she didn't get disappointed and furiously at the size that this cocky white neighbor's cock. Her fear immediately washed away like a Louisiana house from an incoming tornado.
+<br>
+<br>
+
+<br>
+<br>
+John big shaft falling out of his boxers. His hard member flop from side to side. His blue vessels streak miles around John pretty gorgeous cock. Sarah in disbelief at the huge amount of length and girth that John has.
+<br>
+<br>
+Before the black woman could say anything or make a comment about his cock size, John took his cock in his palm. He used his manhood like a light saber waning his cock back and forth. John rubbing his throbbing extra third leg against Sarah adorable face. Her soft fat dick sucking lips scrubbing John cock.
+<br>
+<br>
+<br>
+<br>
+"Ready to be fuck like the good slut that you are?" John ask. He cut her off not allowing a word in an inch wise. "I'm going to fill all of your holes up. Cum will ooze, emits, and drips from your asshole, mouth, nostrils, and pussy after I'm finished wrecking your insides." John wanting to do the same thing that he knew Rich would do to his step-sister Janice. If his rival had the equivalent chance like John.
+
+<br>
+<br>
+ 
+How does Sarah react to his words?
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/tranceshenods.html">Like in a hypnotic trance she nods her head
+</p>
+
+</body>
+</html>

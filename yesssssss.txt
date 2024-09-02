@@ -1,0 +1,118 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+His mouth inches closer to the immensely long firm veiny black cock. The sweet odor whiffing him deeper into a slumber. His lips fell open like a pornstar on a work day. The cock merely seconds from penetrating the back of John throat.
+<br>
+<br>
+His step mother whisper into his ear. "Do you like staring at a hard alpha male cock?"
+<br>
+<br>
+John nods meekly. His mouth watery as the meaty man meat rigidly swings back and forth. The dream figure muscles appears to be similar to a superhero from the movies.
+<br>
+<br>
+"So my sweet sissy. Do you want to suck cock like mommy?" John nods desperately. "Hehe. Do you want to dress like mommy too? Hot lacy thongs with matching bras. Bikinis. Sexy outfits that make theses alpha cocks hard. Ah. I bet you would love to dress like a slutty sorority college cappa cappa delta and suck big hung superior cock."
+<br>
+<br>
+Lisa hand prevents the big black cock from entering John ravenous mouth. The spits runs down his soft lips, John only wanting one small taste of the dark chocolate. His mother shake the monster mockingly in his face.
+<br>
+<br>
+"Tell me you want to dress up in mommy clothes, to get hung cocks in your slutty sissy holes."
+<br>
+<br>
+ 
+Do John admits he wants to dress like a woman?
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yesheadmits.html">Yes he admits it
+<br>
+<br>
+</p>
+
+</body>
+</html>

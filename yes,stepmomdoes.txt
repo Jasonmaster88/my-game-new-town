@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+"Oh, sweetie, these are my new clothes for work. My boss gave me a few outfits. I think this one is ... well." Lisa bit her lower lip to stop talking. But she continues even though she didn't want to. "not so revealing."
+<br>
+<br>
+John wonders what the other slutty outfits resemble. "Oh, but why do you have to wear such revealing clothes as a secretary."
+<br>
+<br>
+She turns away from her stepson. "John. Is this a nice house?"
+<br>
+<br>
+"Yes."
+<br>
+<br>
+"Is this a good neighborhood?"
+<br>
+<br>
+John thought it over. He didn't care for Rich or that hot little coffee bitch. Yet Lock Heaven wasn't that bad. The college that Janice goes to is beautiful and is full to the brink with gorgeous women. The town is a perfect ten out of ten. The people, however, are a little dickish too John personally.
+<br>
+<br>
+"Yes," he said to his stepmother.
+<br>
+<br>
+"Then I don't see why you have to belittle what I must wear to work," she said.
+<br>
+<br>
+"No, I wasn't..." he tries to mutter out before Lisa cut him off.
+<br>
+<br>
+"Now, when you finish eating. Please wash the dishes." She began to leave. Her ass sways, almost bursting from the bottom half of the small thin dress. "And the money for the beer is on the living room table."
+<br>
+<br>
+John couldn't believe he forgot to picks up a case of beer for Rich party. He shook his head. He went into the living room to spot Andrew Jackson on the see-through table.
+<br>
+<br>
+ 
+Does he go get the beer or wait on his sister to come downstairs?
+
+
+
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/johnpickupbeercuck.html">John picks up the beer
+
+
+</a>
+</a>
+<br>
+</a>
+<br>
+
+
+</p>
+
+</body>
+</html>
