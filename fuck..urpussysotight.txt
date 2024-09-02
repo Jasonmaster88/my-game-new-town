@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+Sarah eyes snap up seeing the glorious muscular torso of her white neighbor pounding mercilessly into her sacred region. Forgetting for a split moment of her mother's work and the things she has seen her brother do in the past weeks. Losing herself to bliss with John.
+<br>
+<br>
+He adds pressure into her cunny. Continuing to smash deeply into the ebony goddess's pussy region. She sank deeper into adoration for him, more than any male she had known previously. Her bright teeth graze her plump pouting lips. Whispering to the handsome stud above her. "fuck mmm please don't stop. Ahhh your cock is like an ahhhgg um addiction."
+
+
+<br>
+<br>
+Sweat covers both frames as they mate ferociously together. He ravishes the black girl cunty like a famine child tearing into his lunch at school. Like a tiger clawing deep marks into her skin. Enjoying the natural curve and curvaceous lines that encompass her body. She felt her fingertips dance softly upon his neckline and upper spine. It's creates goosebumps across his sturdy broad frame. She pulled him deeper into him. His root fully inside.
+
+<br>
+<br>
+"Mmm yes, I'm going make you dependant on this dick."
+<br>
+<br>
+"Yess, please. Yes, make me enamored and crave your cock. uh, fuckk pound my afro american cunt haha. Break me, white boy. Oh lord, you mmmm oh god yes," More stupid rambling escaped from her lips by her motivated lover's strokes.
+
+<br>
+<br>
+
+ 
+John happily
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/obliges.html">Obliges
+
+</p>
+
+</body>
+</html>

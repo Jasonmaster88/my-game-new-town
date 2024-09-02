@@ -1,0 +1,127 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+A tall ebony skin look at John with surprise and lust. The man's broad shoulders and muscular chest, barely contained by his open shirt, filled the doorway. His deep, dark eyes scanned John's new attire, his gaze lingering on the bulge in John's crotch. John's heart skipped a beat, his mind racing with a mix of terror and excitement.
+<br>
+<br>
+"What do we have here?" The door shutting behind him, the black guy's voice was deep and smooth, like velvet over thunder.
+<br>
+<br>
+John's hands shot up to cover his chest, the bra straps digging into his skin. He stuttered, trying to form a coherent sentence, but his mouth was as dry as a desert. He felt his face turn beet red as the stranger took a step closer.
+<br>
+<br>
+"Oh, you're one of those shy ones, huh?" The man's grin grew wider, his teeth gleaming in the dim light. He reached out, grabbing John's wrists gently but firmly. "Don't be shy, baby. Let daddy see what you've got."
+<br>
+<br>
+John's eyes widened as the man pulled his hands away, revealing the red lingerie that now clung to him. The man's gaze traveled down to John's waist, where the fabric of the panties was stretched taut over his erection. His cock was pulsing, begging for attention, and John felt a strange mix of embarrassment and arousal.
+<br>
+<br>
+"Now little cock you got there baby. But do you want to see what a real man's cock look like."
+<br>
+<br>
+John nodded his head rapidly, his heart racing as the black god approached him. The man's hands reached down and began to unbuckle his shorts, revealing his own impressive member. It was thick and long, a stark contrast to John's slightly above average eager cock. John's eyes widened as the man took it in his hand, stroking it slowly.
+<br>
+<br>
+"What do you want sissy?"
+<br>
+<br>
+ 
+John said ...
+
+
+
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yourbbc.html">"Your big black cock."
+<br>
+<br>
+</p>
+
+</body>
+</html>

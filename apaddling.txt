@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John grins as he went found a rough red paddle. A few small balls formed on the hitting side. John leans down into Piper's face. He spits into her face. The people in the theater all look around at John. They watch him spit deep ponds of saliva in the blonde petite girl's face. Rubbing the spit in her face like a cheap floozy slut.
+<br>
+<br>
+<br>
+<br>
+John hemming her platinum blonde hair into his fist. "You look at me through that wet spit. Stare at your fucking king." John loudly said. He looks around grabbing people's attention and their awareness. "You are my bitch. My action, my decision is a top priority to you." John brings Piper's face to his crotch.
+<br>
+<br>
+<br>
+<br>
+He debases the blonde braces-wearing girl. Her head nods along his shaft through his pants. All of the older dom, subs, domme, mistresses and other characters attend the slut humiliation. Piper seems to love-hate this. She couldn't be mad at John because she took him here. But being leered at by twenty strangers made this increasingly disgraceful.
+<br>
+<br>
+
+<br>
+<br>
+"Mmmm ahhh yeah your my bitch Piper. You wanted to win my engagement over your friend Holly. Now you got it. Are you going to lose it or keep it?" John said as he uses the paddle roughly against Piper's pale tiny cheeks. Her pale ass turns red as the onlookers stare at her paddling.
+
+<br>
+<br>
+ 
+Does Piper beg for this to stop or obey John command for the rest of the evening?
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/shestaysilent.html">She stays silent in her defeat and submission
+<br>
+
+
+</p>
+
+</body>
+</html>

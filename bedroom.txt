@@ -1,0 +1,122 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John led the punk chick to his bedroom. Her ebony frame looks epic in her packed adjusted white dress. Only a few minutes ago, he was raw dogging Holly and her blonde friend Piper. He did love how this cafe worker look more beautiful and gorgeous than the petite blonde. Something about her small structure, ebony hot body, and that twinkle of danger in her eyes. Turns John hard cock on.
+<br>
+<br>
+"Oh this is the room that the great cock wielder, sleeps in," Holly said sauntering around as she hike up her little dress around her ebony booty.
+<br>
+<br>
+John grew in inches as the punker teases him effortlessly. Her fingers touched a few of his items. "Didn't know you were such a nerd."
+<br>
+<br>
+She held a few fantasy items from John past. A wand from the hit movie spin-off series Harry Potter as a Girl and the hit HBO tv series Tournament of Thrones. "Mmm, you like that blonde chick with dragons or is that dumb bimbo who get transformed into a whore more to your liking " She references the main characters from both pop cultures fixtures.
+<br>
+<br>
+"Yeah, I love those types of things. Especially a powerful woman that is skillfully easily corrupted." John walking over and slapping Holly's ass roughly.
+<br>
+<br>
+
+<br>
+<br>
+"Is that you? Powerful but know you lust to submit to a real man."
+ <br>
+<br>
+Does Holly?
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yeshollysubmitstoJohn.html">Yes, Holly submits to John
+<br>
+
+
+
+</p>
+
+</body>
+</html>

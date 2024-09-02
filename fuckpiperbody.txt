@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+With one hand on the thick yarn of robe, John swinging the petite angel of a fuck doll like a toy. He parades what he has in front of these older men and women. The other youthful pairs of mates not being able to showcase this much supremacy and authority.
+
+<br>
+<br>
+
+Piper felt like a spinning top as her master spins her around faster and faster. Her holes never being this exposed to so many prying eyes. She knew if John wasn't here. Her holes, mind, and every part of her being would be ruined by every man in here.
+<br>
+<br>
+"You love this Piper. You adore being my little perverted helicopter." With a simple nod of her small braces-wearing head, John stops her naked body abruptly. Piper looks straightforward at the many older men in the group. All watching the younger stud's next moves.
+<br>
+<br>
+His cock storming the blonde bitch castle. His battering ram fucking the pink pussy harshly. Her meek pale cheeks accept a thorough hammering. Her cries fell upon the room. Every facial reaction gives the other subby women, men, and femboy traps pause.
+
+<br>
+<br>
+
+ 
+Do John uphold and keep fucking his tied-up fuck puppet?
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yeshekeepsfuckingher.html">yes, he keeps fucking her
+<br>
+
+
+</p>
+
+</body>
+</html>

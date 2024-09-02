@@ -1,0 +1,122 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+They enter the dimly lit theatre. The large black surround sound system hangs above everyone. John see a man with two women on dual leashes. He nods at John presenting his nude women. John took in the nude slaves, gaining a hard-on from staring at the girls exposed in the room full of other people. Many BDSM items stood proudly around the theater. Like stocks, sex swings, rope, and other crazy submissive commodities. The enormous white backdrop where the utmost film projector will hit looms in the background.
+<br>
+<br>
+
+<br>
+<br>
+Before John and Piper could take a seat in the room, a woman dressed in the tightest red leather outfit deter them. A whip in her hand as heavy apply makeup painted across her face.
+<br>
+<br>
+<br>
+An evil smirk upon her personality. She held two playing cards in her hands. A red back and a blue back.
+<br>
+<br>
+"Who is the dominant one and who is submissive?" She looks at the cute blonde girl and then at John larger figure. "Are you a tough man who loves getting pegged by this mousy little girl? Does she wear pants in the relationship?" Her low husky voice ousted those words. Trying to put words to actions John had never demonstrated.
+<br>
+<br>
+"Do you think a slut like her could control me?" John said to the red vixen. His hand went up grabbing the petite girl with blonde hair. "You think I'm a submissive little bitch. Give me the dominant card, and I'll have you submitting in mere minutes like her."
+
+<br>
+<br>
+
+ 
+Which card does the leather-wearing woman give to John?
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/theblueone.html">The blue one
+
+<br>
+
+
+</p>
+
+</body>
+</html>
