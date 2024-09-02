@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John nods his head at the older woman. He agrees to her wanting to share a seat with him. She, however, didn't sit next to him, she remain on the floor. Her tits trying to shatter-free from the restricting lingerie top. John stares longingly at her fat ass in the tiny g-string. The older fifty-sixty-year-old woman holds so much composure for a woman who is a slave.
+<br>
+<br>
+
+
+"So sweetie. Do you like watching your young girlfriend getting treated like the slut she is?" The woman said keeping John stuck to the spot.
+<br>
+<br>
+"No... I... I didn't know the bdsm customs and it cost me my little slut." He said furiously. He wanted to smack the older blonde woman's ass for mocking him. "She's not even my real girlfriend, just a girl I picked up at a party."
+<br>
+<br>
+"Haha, mmm a woman can tell when a man is head over heels for a girl, and you don't really believe that do you." She said. Her hand ran up his thigh. Her hotty breathing on his crotch. The older woman laying her head on John lap to watch Piper's mistreatment. Her eyes like John see Piper getting slapped in the face. Her ass earns the same punishment. Her pale ass and face are a raw bitter red color.
+<br>
+<br>
+<br>
+<br>
+"What do you mean?" John ask wondering what the older beautiful woman is getting at. If she is about to tell him more about the cultures of the bdsm underworld.
+
+<br>
+<br>
+ 
+The older woman said...
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/itisaliehetook.html">"It is a lie. He took your girl from you, and you just let it happen cuck boi."
+<br>
+
+
+</p>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John arrives outside of Rich house, significantly larger than his stepmother's place. He stares at the brick lay material. Two big black bull sculptures seem to let out outcries as they encircle the threshold to Rich doorway. The driveway is almost a silver color which seems to be gravel blended with another unknown element.
+<br>
+<br>
+Many young twenty years old passed by John as he stood on the sidewalk. He studies the people joining him at Rich party. He sees numerous hot white, black, Hispanic, and Asian women in tight outfits, cozy safe fits, and plain-out slutty clothes. A redhead pale girl with amber eyes wore nothing but a neon bikini top and tiny see-through neon mini skirt. Her ass almost hung out, as her c cup tits surged through the front of the small strap. A lot of black guys, with thirty percent of white people, and the rest mix of Asian and Hispanics.
+<br>
+<br>
+He sees the punk chick he met earlier in the week. She wore a slutty white dress to cause a discrepancy with her ebony skin tone. She doesn't notice John as she joins two coworkers from her job at the local cafe spot. They laughed together while entering the party.
+
+<br>
+<br>
+John starts to walk up the path to the incoming crazy boisterous night. He crusades through the door bumping into a few guys chatting up girls. John shoves his way through the heavy traffic jam of people. He thought there may be one hundred to three hundred people. He sees Sarah chatting with three black guys as they all seem to be trying to get inside of the host sister.
+<br>
+<br>
+Then as he moves around into the living room, he shifts past people playing the latest call of duty video game on a movie projector in four k ultra HD. John tries to get comfortable with this proportion of people. He drops off the beer as he sees many extra women in their bikinis heading down a doorway to what he thought must be the basement. Big breast ebony women, tiny Asian babes, hot pawgs, and curvy latinas all drop down to the bottom of the mystery spot.
+
+<br>
+<br>
+The punk girl talks with a small petite blonde. The two extra small women sip away at the beer he bought for the party. They are in full giggle mode as they brush off a chubby Hispanic who attempts to talk one of them up. They flip him off as they went back to discussing shit amongst each other.
+
+<br>
+<br>
+The only person who he can't see in the sea of people is Janice. In his hand, he had the choice of many things. He knew he could either go head to the punk chick and her blonde friend, go over to Rich sister, maybe hit on the redhead in neon, search for his step-sister, or go down to the enigma of a room, where most bikini babes are going.
+<br>
+<br>
+
+ 
+What do John do?
+
+
+
+
+
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/headdowntothebasement.html">Head down to the basement
+<br>
+<br>
+
+
+</p>
+
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html> 
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+His step mother said. "Be safe honey. This isn't the same safe place as our old hometown."
+<br>
+<br>
+John said. "Don't worry your head, mom. I will be safe. And if I run into some trouble." John began to flex his new gains while his step sister ooh and ahhh at. "These guns will protect me."
+<br>
+<br>
+His step mom nod allowing him to leave with anxiety upon her face. His step sister blew him a kiss as he open the door to head out. As Lisa turn her head back to the TV show. John grab his sister kiss placing it down to his crotch. Janice jerks her head while beaming.
+<br>
+<br>
+John left leaving a smile on her face while he began his search for some fun. He stare around the nice area. He could head left. To head into the town and try to find some cool lcal places. Or head down right to where the college, dorms, and Frat houses were at.
+<br>
+<br>
+Before John made a decision he saw a tiny light in Rich backyard on. He wonders what Rich is up to right now. John obtains his options incline to make a choice that could change his life forever, or not.
+
+<br>
+<br>
+ 
+Where does John head to?
+Rich house
+Decides to Head into the City
+
+<br>
+<br>
+<br>
+<br><a href="C:/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/headovertorich1.html">Rich house</a>
+<br>
+<br><a href="C:/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/headintotown1.html">Decides to Head into the City</a>
+<br>
+
+
+</p>
+
+</body>
+</html>

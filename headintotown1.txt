@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html> 
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John decide to see what type of hangout spots this town have to offer. He still didn't know the town actual name yet but he knew he would fine it out soon. He walks toward the busy night life in the city. Cars shove past him as they drove quickly throughout the city.
+<br>
+<br>
+John looks at the surrounding tall buildings. The skyscrapers tower over him like a dragon to a bunny. There are company names and logos plaster on the doors, spell across in big letters in the center of some buildings, and more. He wonders if he could get a internship for any of these large corporations. Maybe another time he thought.
+<br>
+<br>
+He moves further down the street seeing a coffee shop, too many fast food joints, a stadium size mall, and four different bars. John wasn't hungry so the fast food didn't seem appealing. The mall may have some good selection of clothes that he could add to his fit. John didn't have his ID on him. So the bars is ruled out. But he knew he would comeback and check them out. He took a gander at the coffee place. His eyes bugging out as he saw a hot goth punk chick behind the counter.
+<br>
+<br>
+<br>
+<br>
+She looks over seeing him. She beckons him in by waving her two drum sticks. John went inside she wore on her face a dangerous frown.
+<br>
+
+<br>
+<br>
+He knew he wanted to get her number and maybe bring her to Rich party on Friday. John wanting to prove to Rich he is a ladies man. If he brings her to the party. He knew this would shut up Rich taunts and mess with him.
+<br>
+<br>
+She said with a bore voice. "Hello what can I get you?"
+
+ 
+Does John succeed or fail to get her number?
+
+<br>
+<br>
+<br>
+<br><a href="C:/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/hahafailmmmm.html">Haha Fail Miserably (Cuck +1)</a>
+<br>
+<br><a href="C:/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/suceedwithease.html">Succeed with Ease (Alpha +1)</a>
+<br>
+
+
+</p>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John takes a hold of Mias hair and pulls her close to his face, never stopping teasing her dripping folds.
+<br>
+<br>
+“What? You need my *WHAT* Mia?”, John taunts her increasing the pace of his finger.
+<br>
+<br>
+“I need your … your ~”, Mia bites her lip and suppresses a moan, “your cock. I need you to jam that dick in my pussy and take what you want from me!”
+<br>
+<br>
+“And what do I want from you Mia? I might just go around town and –“
+<br>
+<br>
+“My ass, my naughty little asshole! Take it! Pleeeeeeeease, just stretch me first! I haven’t felt a dick in my cunt in sooo long!”, Mia nearly screams out her frustration.
+<br>
+<br>
+That almost breaks Johns concentration. Almost. His smirk intensifies.
+<br>
+<br>
+“Oh, you don’t get what you need from little Richy?”
+<br>
+<br>
+“H-he tries his best. Let’s not talk about him. I need you noooow”, Mia begs.
+<br>
+<br>
+That won’t do, John thinks to himself. She might not be horny enough to talk about her boyfriend, yet. Time to change that. John, still holding Mia up at her hair, withdraws his hand from her quivering bottom lips. Mia only has time to shoot him a desperate, pleading look, before he takes her hand and puts it right on his still covered cock. Mias eyes go wide as saucers and a low and slutty growl escapes her.
+<br>
+<br>
+“You tell me *why* you need a real man so bad and what little Richy can’t give you. And if I like what I hear, I might fill you. Right to the Brim.”, John hushes into her ear.
+<br>
+<br>
+ 
+What does she tell him?
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/whateverhewants.html">Whatever he wants (+1 Alpha)
+<br>
+<br>
+
+</p>
+
+</body>
+</html>
