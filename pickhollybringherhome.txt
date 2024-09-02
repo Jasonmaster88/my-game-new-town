@@ -1,0 +1,127 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John looks at both of the girls trying to endear themselves to him. Both have sexual needs that anticipate getting satisfied by John big cock once again. He loves seeing a friendly slutty rivalry between the hot petite blonde and the daring ebony chick. He went through his three choices before saying.
+<br>
+<br>
+"Piper..." She grins knowing this has won his cock for the rest of the twilight. "You can go home or head to that movie by yourself. Holly, you and I can go hang out at my house."
+<br>
+<br>
+<br>
+Holly grins like a serpent. She stuck her tongue out at Piper. "Haha, you can go suck it. Oh, wait no... No. I think I'm going to suck. Let go John." She tosses on her white dress taunting Piper with her first victory over John cock. She shook her little booty walking out of the room.
+<br>
+<br>
+"If you want to updo her Piper, just sent me a few videos of you playing with your dildos and calling out my name." John thought he would like her better and go out with her if she did do those things. He follows the ebony chick quickly as he sights see Rich and Mia getting into a shouting match over something. "Trouble in paradise buddy."
+<br>
+<br>
+"Fuck off white boy." Rich yell at John. "Mia stop with this nonsense of me cheating on you. I would never do that shit."
+<br>
+<br>
+John hears Mia reply back with outrage in her voice. "Fuck you Rich. I saw you hitting on that brunette neighbor bitch. You can need to quit lying to me before I get my back blown out by a real man."
+<br>
+<br>
+John laughs. "Let go, Holly, let's leave the happy couple alone."
+
+<br>
+<br>
+
+ 
+John and Holly arrive at
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/johnhouseinafew.html">John house in a few minutes
+<br>
+
+
+
+</p>
+
+</body>
+</html>

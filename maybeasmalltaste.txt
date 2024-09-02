@@ -1,0 +1,117 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John was surprise by his mouth becoming unseal. His jaw less hurting while he fell to his knees in front of his busty cougar of a mom. Her glorious tits vibrate to the rhythmic movement of her stroking the monsters. Her lustful eyes fell upon John.
+<br>
+<br>
+"Oh are you joining me sweety." Lisa said with a mischievous smile upon her perfect face.
+<br>
+<br>
+John body move involuntarily towards his step mother and two fat black cocks. The musky odor overwhelms his sense of smell. They hung there expecting two warm mouths to wrapped around their essence. John gulps a little, not at the task at hand. He does want to try a small taste of their dark chocolate. But he is anxious about how much damage their meaty members will do to the back of his throat.
+<br>
+<br>
+Lisa took charge by seizing her step son hand. "Don't be afraid baby. These monsters just want to relieve there stress into the back of our throats." She pokes playfully into his stomach. "And maybe we can get them to fuck our asses next two each other."
+<br>
+<br>
+A stark image of two asses suspended in the air. Two hung black alphas with their cocks penetrating our holes in simultaneously.
+<br>
+<br>
+
+ <br>
+<br>
+Do John suck his first dream cock?
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yesssssss.html">Yes!!!
+<br>
+<br>
+</p>
+
+</body>
+</html>

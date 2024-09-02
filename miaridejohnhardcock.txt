@@ -1,0 +1,115 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+The blonde hair beautiful girl's hips start to buckle as her pussy slide further down John fat cock. Her pinkness swallowed him whole, her ass slapping together. Mia moaning like crazy from his sheer length and cocky attitude.
+<br>
+<br>
+<br>
+"Ohhhh fuckkkk. Ahhhh yes. Mmmm yes John. Your cock is ahhh so fucking ah good. Yes please shoot a load into my pussy. Cum into me deeply. Breeds me like the good little girl that I am." Mia groans loudly.
+<br>
+<br>
+John leans upwards kissing her pouty lips. Her moans push into his mouth as he pulls from her mouth. "Ahhh fuck. You're not a good girl, you are a dirty little slut. A blonde hair bimbo, who is made to take big fat cocks. A cocksleeve for my personal use. Ahh fuckkkk yeah whore. I'm going to cum deep into your pussy. Ahhh, give you twins. Ahhh fuckk. Whore take that cock. Ahhh, take it bitch." John reaching a large hand up to choke the life from her. Putting her in her natural place as a bitch to his cock.
+<br>
+
+<br>
+<br>
+The loud sound of the bed creaking and the noise of Mia cheeks ringing off of John big thick cock. Her face is in pure escapism as the multiple orgasms get pounded out of her. Her tits pressing into John chest as he grips her thighs, snatching her pussy deeper down his big shaft.
+<br>
+<br>
+
+ 
+Does John cum deep into Mia pussy or go for a new sexual position or get caught by someone fucking?
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/gettingcaughtbythered.html">Getting caught by the redhead
+<br>
+<br>
+</p>
+
+</body>
+</html>

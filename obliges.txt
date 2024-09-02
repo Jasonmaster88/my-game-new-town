@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+His cock penetrates further into her narrow slit valley. Fuck, she is much tighter than a few of his ex's tighten holes. He remembers his Asian ex-girlfriend Vina.
+
+<br>
+<br>
+His former exes cunts may not compare to the sheer level of talent Sarah's black pussy possesses. His veins grew pronounced all across his gargantuan white schlong. Feeling her wet canal cradle and comfort his mighty white manhood perfectly.
+
+<br>
+<br>
+Drops of his sweat fall upon the voluptuous feminine frame of the college graduate below. Getting pounded furiously, making Sarah his slut. Both lovers heavily breathes exchanging amongst each other like a battle between dragons.
+
+<br>
+<br>
+John grope the ebony cute tits while he pounds her. Flicking and pinching her silver piercings. "Such nice breasts. mm fuck I might be addicted to these umm amazing titties." His sentence fragmented thanks to his sharp cock striking into the girl's stunning frame. Her cunt squeezing him harder, milking his cock for everything it worth.
+<br>
+<br>
+Both are close to reaching a euphoric high note. Her legs lock around his thick trunk white legs to lure him into the greatest pleasure imaginable. Driving his rockhard lengthy shaft deeply into her quaking cunny. Both grinding making each other sexual skills sharper in the bedroom.
+ <br>
+<br>
+John...
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/staywithSarah.html">Stay with Sarah for the remainder of the party.
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/fuckthemall.html">go find Janice
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/gofindhollynpiper.html">hit up Holly
+</p>
+
+</body>
+</html>

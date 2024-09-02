@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+Mia nods her head. The sexy stacked blonde girl leans forward. Her tongue licking the redhead's ass. Ashley's pussy is leaking. She loves being eaten out, but not like this. Not with another girl. It was a different feeling, something that she enjoyed more than she would care to admit. With the eyes John on her, she feels so free and naughty.
+<br>
+<br>
+
+
+The blonde woman is working her magic on the redhead. She knew how to eat a girl out. The woman has had plenty of experience with her roommates in college. Ashley moaning uncontrollably. Her tongue licking her rosebud at a steady rate. Her dazzling eyes on John aiming to please him. She would do anything to make him cum.
+<br>
+<br>
+The redhead's pussy is flowing like a river. A flood of wetness dripped down her thighs and into the mattress. She couldn't stop herself. Her body was betraying her. Ashley has come equally hard from this dumb butch tongue touching her anus as John dick getting slammed into her guts. She could feel the pressure of her impending orgasm.
+<br>
+<br>
+
+<br>
+<br>
+"Mmm, I can't hold on any longer. I'm going to cum." She said to the other girl.
+<br>
+<br>
+"Yeah, bitch. Cum for me, cum for the alpha female." Mia moans. She fingers deep into her twat getting off on dominating Ashley.
+
+<br>
+<br>
+
+ 
+Does John change something up?
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/yeahhewantsapiece.html">Yeah he wants a piece of Mia
+<br>
+<br>
+</p>
+
+</body>
+</html>

@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John felt dread building in his chest as Dennis grins. He leans down with a fist full of the black leash in his hands. He kisses her little head. "I'm so sorry that your boyfriend is a worthless cucky loser. If I had a young girl like you, I would put you on a pedestal. But since your boyfriend is such a good cuck, I and the lads are going to run through you like a train. Would you like that?"
+<br>
+<br>
+Piper tries to speak but instantly a stubby finger thrusts into her small mouth. Dennis's finger shoves into Piper's warm mouth.
+<br>
+<br>
+
+<br>
+<br>
+His eyes peered down looking at the young woman, his old cock loving to have such a hot woman to fuck and break.
+<br>
+<br>
+"You will only answer me in blinks, one for no two for yes. Understand." Dennis said as John sat on a sturdy theater seat. The large screen above playing a film of a girl in stocks as her ass gets a rail from behind with three guys in front jacking off.
+<br>
+<br>
+Piper blinks twice. Dennis grins as he inserts his fat fingers into her warm wet mouth. "Such a good girl. You love obeying a real man, isn't that right? You need a strong older hand to show you, your submissive side. An old buck got more tricks than a young stud. Haha." His friends join in on the laughter at John expense.
+<br>
+<br>
+The ginger calls out to John. "Hopes you like spoiled cunt cuck."
+<br>
+<br>
+
+ 
+Does Piper blink her acceptance?
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/petiteblondeblinks.html">The petite blonde blinks her endorsement of Dennis
+<br>
+
+
+</p>
+
+</body>
+</html>

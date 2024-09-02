@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+"Okay umm, you can collar her." John said feeling like he is making a big mistake in the BDSM culture.
+<br>
+<br>
+"I'm Dennis, and thank you, young man." His words come off a little egocentric. John didn't know why though. He watches Dennis pulling out a long black leash and a dog collar with a name on it. He leans down as John hears laughter from the other guys.
+<br>
+<br>
+
+<br>
+<br>
+"Good job Dennis." An old black man with huge hairy nuts and an average size cock said.
+<br>
+<br>
+A balding ginger with minimal hair said. "The baby boomer rules and gen z is a bunch of faggots."
+<br>
+<br>
+Dennis laughed as he showed off the name collar on the pink leather. John eyes widen to see Dennis's baby doll. "Hey, sorry mate. Ah, this little apple right here for the night now."
+<br>
+<br>
+"What the fuck do you mean?" John call out in dread. Knowing he must not know a lame fucking rule in the bdsm community.
+<br>
+<br>
+"Hey, not my fault you don't know the rules of the land. The policy is policy. Now I am not a mean man like my colleagues. You can either take..." He looks back at the men behind him. He counts the three guys like a show. "Sloppy fifth with my old lady, watch us have fun with my new pet, or set back and watch the movie. I don't give a shit." Piper had worry and stress implied in her big doe brown eyes. She looks to John to save her.
+ <br>
+<br>
+Does John take her back or allow the older man to have fun with his date?
+
+
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/letdennishavefun.html">Let Dennis have fun with Piper (gain a cuck point and lose an alpha point)
+<br>
+
+
+</p>
+
+</body>
+</html>
