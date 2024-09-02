@@ -1,0 +1,114 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+The vivid dream of his mother's depravity played in John's mind like a pornographic movie on repeat. He felt his cheeks flushing, his heart racing, and his cock pulsing with a mix of arousal and fear. The image of Lisa dressed in slutty clothing, eagerly pleasing these alpha males, was almost too much to handle. But as the scene unfolded before him, he couldn't deny the stirring in his loins.
+<br>
+<br>
+John never thought of about being a sissy. But seeing himself beneath his mom with those big cocks, feeling like a helpless girl, his body was responding in a way he couldn't ignore. His mind raced with the possibilities of what could happen next. He was torn between the horror of the situation and the overwhelming urge to give in to his desires.
+<br>
+<br>
+He got out of his bed and decided to get up for the day. He knew he could head into town. But the dream was still lingering in his thoughts.
+<br>
+<br>
+The large black cocks hovered over John's imagination as he stumbled into the bathroom to splash cold water on his face. The reality of the situation washed over him like the water, but the heat of his desire remained. He glanced at himself in the mirror, noticing the tent in his pajama pants. His hand moved down, almost on its own accord, to grip his cock through the fabric. He bit his lip, contemplating whether to indulge in the fantasy.
+<br>
+<br>
+"Fucking sissy." He mutters to himself. His hand tightens around his cock, feeling the throbbing need to cum from his mother's slutty influence. "That what you want huh." John says to his reflection with a mix of anger and lust.
+<br>
+<br>
+ 
+He stops jerking off and head outside
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/Johngooutside.html">John checking out his new town
+<br>
+<br>
+</p>
+
+</body>
+</html>

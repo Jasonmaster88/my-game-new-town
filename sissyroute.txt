@@ -1,0 +1,122 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+John hand twitches toward his mom sexy booty. But he pulls his hand and those thoughts away from fondling Lisa ass.
+<br>
+<br>
+Then an image pop up in his mind. A dominant black male holding John mother's waist. His eyes peering down at Lisa in a tight red zebraish outfit.
+<br>
+<br>
+
+<br>
+<br>
+He tries to stop his imagination from running wild but quickly another one pop up. Lisa smiles teasingly at him while holding onto the black male collar. The dude however looks down at John with a hand on her ass. Showing John that he would never touch her like him.
+<br>
+<br>
+Then the alpha black guy sat on a chair. Lisa like the slut she is jump onto lap. He spreads a leg forcing her legs open too. John mouth foams as he wants to see his mother pink pussy.
+<br>
+
+<br>
+<br>
+"John are you okay? You kinda been staring off in space. Do I need to stay home with you?" his step mom said.
+<br>
+<br>
+ 
+John said...
+
+
+
+<br>
+<br>
+</a>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/imgoodmom.html">"I'm good mom. Please go to work. I'm heading into town."
+<br>
+<br>
+</p>
+
+</body>
+</html>

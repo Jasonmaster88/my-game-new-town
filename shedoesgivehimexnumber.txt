@@ -1,0 +1,120 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <p><a href="https://www.patreon.com/SweetShelly/">Patreon</a></p> 
+</div>
+
+<h2></h2>
+<p></p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html>
+
+<html>
+
+<head>
+<title>New Town, New Experiences</title>
+</head>
+
+<body style="background-color:grey;text-align:center;font-size:30px;">
+
+<h1 style="font-family:arial;color:black;font-size:30px;">New Town, New Experiences</h1>
+
+<p>
+Mia write out a phone number on a blank notebook sheet of paper. She rips it off as she said. "You can call him with this number or you can check him out on twitch NerdGuy007."
+<br>
+<br>
+John nods. He is happy to learn more about this town and the people in it. See how a relationship of three faithful years could end in one abrupt night. John batman slash Sherlock Holmes detective skills forming to figure out what happen between his new bitch and what happen to the old ex. "Thank you Mia I appreciate this. And to show off my appreciation for this information, why don't you ride my cock. I need to make sure my cum spurts deeply into your womb. Can't have you on empty."
+
+<br>
+<br>
+
+Mia eagerly pushes him back onto the bed. Her ass straddling his thighs, John cock pokes the underside of her tits as she slouches forward. The manly scent sent her into a blissful hunger to pleasure John big cock. Her pussy grinds against his shaft for a few minutes.
+<br>
+<br>
+"Tell me how badly you want my pussy" she said teasing John.
+
+
+<br>
+<br>
+John sat forth retaining control of the sexy fat-ass white girl. His hands coiled around her throat. "I need that hot pinkness so bad bitch, now get to work before I skullfuck you instead. You are not a Margot Robbie type from that Wolf of wall street movie. Your a dumb slut from a porno who craves this baby making seed."
+
+<br>
+<br>
+ 
+Mia...
+Starts to ride John cock hard
+
+<br>
+<br>
+<br>
+<br><a href="C:\/Users/Chesley/Desktop/New%20Town%20-%20patreon%20and%20subscribestar%20upload/miaridejohnhardcock.html">Starts to ride John cock hard again
+<br>
+<br>
+</p>
+
+</body>
+</html>
